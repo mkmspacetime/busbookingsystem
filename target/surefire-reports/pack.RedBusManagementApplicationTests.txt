@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: pack.RedBusManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.028 s <<< FAILURE! - in pack.RedBusManagementApplicationTests
+initializationError(pack.RedBusManagementApplicationTests)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.TypeNotPresentException: Type org.springframework.test.context.junit4.SpringRunner not present
+Caused by: java.lang.ClassNotFoundException: org.springframework.test.context.junit4.SpringRunner
+
